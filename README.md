@@ -1,7 +1,7 @@
 Hi everyone!
 I'm Valentina but you can call me **Rorra** :)
 
-I'm a **Computer Science** and **Full Stack Development** student.
+I'm a **Product Designer** and a **Full Stack Development** student.
 
 I speak **Portuguese**, **Spanish** and **English** and I love connecting with people from all over the world!
 
