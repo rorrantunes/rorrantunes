@@ -1,5 +1,10 @@
 Hi everyone!
-I'm Valentina but you can call me **Rorra** :)
+I'm Valentina but you can call me **Rorra** :) <br>
+![github-octopuss (2)](https://github.com/user-attachments/assets/f1757ce7-bf7b-41b1-bc6b-5e44ccb3978d)
+
+
+
+
 
 I'm a **Product Designer Intern** and a **Full Stack Development** student.
 
