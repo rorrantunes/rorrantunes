@@ -1,9 +1,8 @@
 Hi everyone!
 I'm Valentina but you can call me **Rorra** :) <br>
+• 22 y/o **Product designer intern** at a US fintech 🇺🇸 <br>
+• **Full stack** development student <br>
 ![github-octopuss (2)](https://github.com/user-attachments/assets/f1757ce7-bf7b-41b1-bc6b-5e44ccb3978d)
-
-- 22 y/o **Product designer intern** at a US fintech 🇺🇸 <br>
-- **Full stack** development student
 
 🌍 I speak: <br>
 • 🇧🇷 Portuguese <br>
