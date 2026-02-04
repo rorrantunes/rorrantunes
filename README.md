@@ -9,14 +9,14 @@ I'm Valentina but you can call me **Rorra** :) <br>
 • 🇪🇸 Spanish  <br>
 • 🇺🇸 English  <br>
 
-💡 **A bit about me:**
+💡 **A bit about me:** <br>
 • I love trying new things and experimenting  
 • Always curious and open to learning  
 • Food lover 🍜  
 • I enjoy movies, series & anime 🎬🍿  
 • Music is a big part of my life 🎧
 
-🌱 **Currently learning:**
+🌱 **Currently learning:** <br>
 • Full Stack Development  
 • Improving my design-to-code workflow  
 • Exploring better UX for fintech products  
