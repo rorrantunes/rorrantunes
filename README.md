@@ -4,25 +4,25 @@ I'm Valentina but you can call me **Rorra** :) <br>
 • **Full stack** development student <br>
 ![github-octopuss (2)](https://github.com/user-attachments/assets/f1757ce7-bf7b-41b1-bc6b-5e44ccb3978d)
 
-🌍 I speak: <br>
+🌍 **I speak:** <br>
 • 🇧🇷 Portuguese <br>
 • 🇪🇸 Spanish  <br>
 • 🇺🇸 English  <br>
 
-💡 A bit about me  
+💡 **A bit about me:**
 • I love trying new things and experimenting  
 • Always curious and open to learning  
 • Food lover 🍜  
 • I enjoy movies, series & anime 🎬🍿  
 • Music is a big part of my life 🎧
 
-🌱 Currently learning  
+🌱 **Currently learning:**
 • Full Stack Development  
 • Improving my design-to-code workflow  
 • Exploring better UX for fintech products  
 • Constantly updating my skills and tools
 
-🛠️ Tech & Design Tools <br>
+🛠️ **Tech & Design Tools:** <br>
 <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="40" />
 <img src="https://github.com/user-attachments/assets/39a3fbba-4c49-4325-ae3e-c268d667c63c" alt="CSS3" width="40" />
 <img src="https://cdn.simpleicons.org/sass" alt="SASS" width="40" />
